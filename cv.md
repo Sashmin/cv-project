@@ -1,5 +1,5 @@
 # cv-project
-# Alexander Tolochko
+## Alexander Tolochko
 ---
 #### Contacts:
 Telegram: @sashmin\
@@ -28,4 +28,4 @@ Hopefully, my persistence, attentiveness and knowledge, accumulated during this 
 #### Languages:
 - English - Upper-Intermediate (score of 86% on the test at www.efset.org)
 - Russian - Native
-- German - Lower-Intermediate
+- German - Pre-Intermedate

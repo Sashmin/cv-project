@@ -2,9 +2,9 @@
 # Alexander Tolochko
 ---
 #### Contacts:
-Telegram: @sashmin
-Github: Sashmin
-Email: tolochko.minsk@gmail.com
+Telegram: @sashmin\
+Github: Sashmin\
+Email: tolochko.minsk@gmail.com\
 Tel: +375291234116
 
 ---
@@ -24,3 +24,8 @@ Hopefully, my persistence, attentiveness and knowledge, accumulated during this 
 - MS Word and Powerpoint
 
 ---
+
+#### Languages:
+- English - Upper-Intermediate (score of 86% on the test at www.efset.org)
+- Russian - Native
+- German - Lower-Intermediate

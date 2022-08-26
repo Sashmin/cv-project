@@ -2,10 +2,10 @@
 # Alexander Tolochko
 ---
 #### Contacts:
-Telegram: @sashmin
-Github: Sashmin
-Email: tolochko.minsk@gmail.com
-Tel: +375291234116
+Telegram: @sashmin\
+Github: Sashmin\
+Email: tolochko.minsk@gmail.com\
+Tel: +375291234116\
 
 ---
 

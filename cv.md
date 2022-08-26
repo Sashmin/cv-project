@@ -5,7 +5,11 @@
 Telegram: @sashmin\
 Github: Sashmin\
 Email: tolochko.minsk@gmail.com\
+<<<<<<< HEAD
 Tel: +375291234116
+=======
+Tel: +375291234116\
+>>>>>>> 6032d903e1e680825a5574e603a9f667e0535e46
 
 ---
 
@@ -24,8 +28,11 @@ Hopefully, my persistence, attentiveness and knowledge, accumulated during this 
 - MS Word and Powerpoint
 
 ---
+<<<<<<< HEAD
 
 #### Languages:
 - English - Upper-Intermediate (score of 86% on the test at www.efset.org)
 - Russian - Native
 - German - Pre-Intermedate
+=======
+>>>>>>> 6032d903e1e680825a5574e603a9f667e0535e46

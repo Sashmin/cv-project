@@ -1,4 +1,2 @@
 # cv-project
-# Alexander Tolochko
-### Contacts
-fff
+https://sashmin.github.io/cv-project/cv
